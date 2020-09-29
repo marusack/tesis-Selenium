@@ -1,6 +1,7 @@
 package PageObjects;
 
 import org.openqa.selenium.*;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
@@ -61,4 +62,11 @@ public class BasePage {
     }
 
 
+    public void goHoverByXpath(String path) {
+        By by = By.xpath(path);
+        Actions action = new Actions(driver);
+        WebElement elem = driver.findElement(by);
+        action.moveToElement(elem);
+        action.perform();
+    }
 }

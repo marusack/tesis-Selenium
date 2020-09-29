@@ -1,96 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab5d29e1-461f-47eb-a7e8-c990660bce1b" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
+    <list default="true" id="48c8f48a-c5c3-4ec0-a64f-e34deb2586e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PageObjects/Facena/BibliotecaPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PageObjects/Facena/DestacadosPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PageObjects/Facena/Formulario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PageObjects/Facena/HeaderPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PageObjects/Facena/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PageObjects/Facena/SiuGuaraniPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/AssertLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/AutomationMerc/FacenaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PageObjects/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PageObjects/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PageObjects/MercadoLibre/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PageObjects/MercadoLibre/MercadoLibreHomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PageObjects/MercadoLibre/RegistrationPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PageObjects/MercadoLibre/SearchResultPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/AutomationMerc/BaseTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/AutomationMerc/BaseTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/AutomationMerc/MercadoLibrePeHomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/AutomationMerc/MercadoLibrePeLogin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/AutomationMerc/MercadoLibrePeRegistration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PageObjects/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PageObjects/BasePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PageObjects/MercadoLibre/LoginPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PageObjects/MercadoLibre/MercadoLibreHomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PageObjects/MercadoLibre/RegistrationPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PageObjects/MercadoLibre/SearchResultPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/testchallenge.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/AutomationMerc/BaseTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/AutomationMerc/BaseTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/AutomationMerc/MercadoLibrePeHomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/AutomationMerc/MercadoLibrePeLogin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/AutomationMerc/MercadoLibrePeRegistration.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/AutomationMerc/BaseTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#107#108#0" expanded="true" />
-                <element signature="e#150#151#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PageObjects/BasePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="62" selection-start-line="62" selection-end-line="62" />
-              <folding>
-                <element signature="e#837#838#0" expanded="true" />
-                <element signature="e#904#905#0" expanded="true" />
-                <element signature="e#979#980#0" expanded="true" />
-                <element signature="e#1062#1063#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PageObjects/MercadoLibre/RegistrationPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="64" column="34" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/AutomationMerc/MercadoLibrePeRegistration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/AutomationMerc/MercadoLibrePeHomePage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/AutomationMerc/MercadoLibrePeLogin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -102,25 +81,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/test/java/BaseTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/MercadoLibrePeSuite.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PageObjects/MercadoLibre/LoginPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PageObjects/MercadoLibre/MercadoLibreHomePage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PageObjects/MercadoLibre/SearchResultPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/MercadoLibrePeHomePage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/MercadoLibrePeLogin.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PageObjects/BasePage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PageObjects/MercadoLibre/RegistrationPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/MercadoLibrePeRegistration.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/AutomationMerc/BaseTests.java" />
-        <option value="$PROJECT_DIR$/MercadoLibreSuite_Pe.xml" />
-      </list>
-    </option>
-  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -128,80 +88,23 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1358" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <abbreviatePackageNames ProjectPane="true" />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="testchallenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testchallenge" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testchallenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testchallenge" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testchallenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testchallenge" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testchallenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testchallenge" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testchallenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testchallenge" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testchallenge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testchallenge" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="AutomationMerc" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
+  <component name="ProjectId" id="1hcToPg5n0W2JMi237zvjhEu1Gj" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mar_s\OneDrive\Documentos\ReposPOC\tesis-selenium\testchallenge\src\main\java" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
+      <recent name="PageObjects.Facena" />
+      <recent name="util" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Maru\Desktop\testchallenge" />
-      <recent name="C:\Users\Maru\Desktop\testchallenge\src\main\java" />
+      <recent name="C:\Users\mar_s\OneDrive\Documentos\ReposPOC\tesis-selenium\testchallenge" />
+      <recent name="C:\Users\mar_s\OneDrive\Documentos\ReposPOC\tesis-selenium\testchallenge\src\test\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -216,10 +119,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.MercadoLibrePeLogin">
-    <configuration name="C:/Users/Maru/Desktop/testchallenge/MercadoLibreSuite_Pe.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="testchallenge" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/MercadoLibreSuite_Pe.xml" />
+  <component name="RunManager" selected="TestNG.FacenaTest">
+    <configuration name="C:/Users/mar_s/.IdeaIC2019.2/system/temp-testng-customsuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.AutomationMerc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="$USER_HOME$/.IdeaIC2019.2/system/temp-testng-customsuite.xml" />
+      <option name="PACKAGE_NAME" value="com.AutomationMerc" />
+      <option name="MAIN_CLASS_NAME" value="com.AutomationMerc.FacenaTest" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -227,8 +138,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MercadoLibrePeHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="testchallenge" />
+    <configuration name="FacenaTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.AutomationMerc.*" />
@@ -236,7 +147,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.AutomationMerc" />
-      <option name="MAIN_CLASS_NAME" value="com.AutomationMerc.MercadoLibrePeHomePage" />
+      <option name="MAIN_CLASS_NAME" value="com.AutomationMerc.FacenaTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -244,8 +155,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MercadoLibrePeLogin" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="testchallenge" />
+    <configuration name="FacenaTest.historia1_test3 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.AutomationMerc.*" />
@@ -253,47 +164,45 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.AutomationMerc" />
-      <option name="MAIN_CLASS_NAME" value="com.AutomationMerc.MercadoLibrePeLogin" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="MAIN_CLASS_NAME" value="com.AutomationMerc.FacenaTest" />
+      <option name="METHOD_NAME" value="historia1_test3" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MercadoLibrePeRegistration" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="testchallenge" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="com.AutomationMerc.MercadoLibrePeRegistration" />
-      <option name="TEST_OBJECT" value="CLASS" />
+    <configuration name="FacenaTest.historia1_test3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.AutomationMerc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.AutomationMerc" />
+      <option name="MAIN_CLASS_NAME" value="com.AutomationMerc.FacenaTest" />
+      <option name="METHOD_NAME" value="historia1_test3" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MercadoLibrePeRegistration" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="testchallenge" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="com.AutomationMerc.MercadoLibrePeRegistration" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="&lt;default&gt;" type="TestNG" nameIsGenerated="true">
-      <module name="testchallenge" />
-      <option name="SUITE_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="PACKAGE" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="PROPERTIES_FILE" value="" />
+    <configuration name="FacenaTest.historia2_test5 (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.AutomationMerc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.AutomationMerc" />
+      <option name="MAIN_CLASS_NAME" value="com.AutomationMerc.FacenaTest" />
+      <option name="METHOD_NAME" value="historia2_test5" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -302,382 +211,79 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.MercadoLibrePeLogin" />
-        <item itemvalue="TestNG.MercadoLibrePeRegistration" />
-        <item itemvalue="TestNG.MercadoLibrePeHomePage" />
-        <item itemvalue="TestNG.C:/Users/Maru/Desktop/testchallenge/MercadoLibreSuite_Pe.xml" />
-        <item itemvalue="TestNG.MercadoLibrePeRegistration (1)" />
+        <item itemvalue="TestNG.FacenaTest" />
+        <item itemvalue="TestNG.C:/Users/mar_s/.IdeaIC2019.2/system/temp-testng-customsuite.xml" />
+        <item itemvalue="TestNG.FacenaTest.historia1_test3 (1)" />
+        <item itemvalue="TestNG.FacenaTest.historia1_test3" />
+        <item itemvalue="TestNG.FacenaTest.historia2_test5 (2)" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ab5d29e1-461f-47eb-a7e8-c990660bce1b" name="Default Changelist" comment="" />
-      <created>1572582330059</created>
+      <changelist id="48c8f48a-c5c3-4ec0-a64f-e34deb2586e1" name="Default Changelist" comment="" />
+      <created>1600309554364</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572582330059</updated>
+      <updated>1600309554364</updated>
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="MercadoLibrePeRegistration - 2019.11.01 at 16h 31m 09s.xml">
-      <configuration name="MercadoLibrePeRegistration" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_Maru_Desktop_testchallenge_MercadoLibreSuite_Pe_xml - 2019.11.01 at 16h 34m 17s.xml">
-      <configuration name="C:/Users/Maru/Desktop/testchallenge/MercadoLibreSuite_Pe.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_Maru_Desktop_testchallenge_MercadoLibreSuite_Pe_xml - 2019.11.01 at 17h 10m 13s.xml">
-      <configuration name="C:/Users/Maru/Desktop/testchallenge/MercadoLibreSuite_Pe.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_Maru_Desktop_testchallenge_MercadoLibreSuite_Pe_xml - 2019.11.01 at 17h 11m 08s.xml">
-      <configuration name="C:/Users/Maru/Desktop/testchallenge/MercadoLibreSuite_Pe.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_Maru_Desktop_testchallenge_MercadoLibreSuite_Pe_xml - 2019.11.01 at 17h 11m 30s.xml">
-      <configuration name="C:/Users/Maru/Desktop/testchallenge/MercadoLibreSuite_Pe.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_Maru_Desktop_testchallenge_MercadoLibreSuite_Pe_xml - 2019.11.01 at 17h 35m 45s.xml">
-      <configuration name="C:/Users/Maru/Desktop/testchallenge/MercadoLibreSuite_Pe.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_Maru_Desktop_testchallenge_MercadoLibreSuite_Pe_xml - 2019.11.01 at 17h 36m 06s.xml">
-      <configuration name="C:/Users/Maru/Desktop/testchallenge/MercadoLibreSuite_Pe.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="MercadoLibrePeHomePage - 2019.11.01 at 17h 37m 18s.xml">
-      <configuration name="MercadoLibrePeHomePage" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="MercadoLibrePeRegistration - 2019.11.01 at 17h 38m 48s.xml">
-      <configuration name="MercadoLibrePeRegistration" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="MercadoLibrePeLogin - 2019.11.01 at 17h 40m 51s.xml">
-      <configuration name="MercadoLibrePeLogin" configurationId="TestNG" />
-    </history-entry>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
-    <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21428572" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32936078" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32936078" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.49187434" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.21428572" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.32936078" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.49187434" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.3997833" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-    </layout-to-restore>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/PageObjects/MercadoLibre/MercadoLibreHomePage.java</url>
-          <line>79</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/AutomationMerc/MercadoLibrePeHomePage.java</url>
-          <line>42</line>
-          <properties />
+          <url>file://$PROJECT_DIR$/src/test/java/com/AutomationMerc/FacenaTest.java</url>
+          <line>105</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/AutomationMerc/MercadoLibrePeRegistration.java</url>
-          <line>62</line>
-          <properties />
-          <option name="timeStamp" value="8" />
+          <url>file://$PROJECT_DIR$/src/test/java/com/AutomationMerc/FacenaTest.java</url>
+          <line>134</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/AutomationMerc/FacenaTest.java</url>
+          <line>150</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/AutomationMerc/FacenaTest.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/AutomationMerc/FacenaTest.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/PageObjects/Facena/DestacadosPage.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/PageObjects/Facena/DestacadosPage.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>driver.findElement(By.cssSelector(&quot;div.andes-modal-dialog__container&quot;)).findElement(By.cssSelector(&quot;.andes-modal-dialog__button-close&quot;)).click()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>driver.findElement(By.cssSelector(&quot;div.andes-modal-dialog__container&quot;)).findElement(By.cssSelector(&quot;.andes-modal-dialog__button-close&quot;)).click();</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>driver.findElement(By.cssSelector(&quot;div.andes-modal-dialog__container&quot;).findElement(By.cssSelector(&quot;.andes-modal-dialog__button-close&quot;))</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>driver.findElement(By.cssSelector(&quot;div.andes-modal-dialog__container&quot;).findElement(By.cssSelector(&quot;.andes-modal-dialog__button-close&quot;)).click();</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>driver.findElement(By.cssSelector(&quot;div.andes-modal-dialog__container&quot;))</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>driver.findElement(By.cssSelector(&quot;#password&quot;)).click()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>driver.findElement(By.cssSelector(&quot;div.andes-modal-dialog__button-close&quot;)).click()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>driver.switchTo().defaultContent()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>driver.findElement(By.cssSelector(&quot;a.andes-modal-dialog__button-close&quot;)).click()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>driver.getCurrent().getWindowHandles()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.10/junit-4.10.jar!/org/junit/Assert.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="26" column="18" lean-forward="true" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8.jar!/org/testng/internal/Invoker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="51" column="284" selection-start-line="51" selection-start-column="284" selection-end-line="51" selection-end-column="284" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PageObjects/MercadoLibre/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
-          <folding>
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PageObjects/MercadoLibre/MercadoLibreHomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="78" column="43" lean-forward="true" selection-start-line="78" selection-start-column="43" selection-end-line="78" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PageObjects/MercadoLibre/SearchResultPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PageObjects/BasePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="62" selection-start-line="62" selection-end-line="62" />
-          <folding>
-            <element signature="e#837#838#0" expanded="true" />
-            <element signature="e#904#905#0" expanded="true" />
-            <element signature="e#979#980#0" expanded="true" />
-            <element signature="e#1062#1063#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PageObjects/MercadoLibre/RegistrationPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="64" column="34" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/AutomationMerc/BaseTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#107#108#0" expanded="true" />
-            <element signature="e#150#151#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/AutomationMerc/MercadoLibrePeHomePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/AutomationMerc/MercadoLibrePeRegistration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MercadoLibreSuite_Pe.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/AutomationMerc/MercadoLibrePeLogin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
