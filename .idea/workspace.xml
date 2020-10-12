@@ -2,68 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48c8f48a-c5c3-4ec0-a64f-e34deb2586e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_27.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PageObjects/Facena/BibliotecaPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PageObjects/Facena/DestacadosPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PageObjects/Facena/Formulario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PageObjects/Facena/HeaderPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PageObjects/Facena/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PageObjects/Facena/SiuGuaraniPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/AssertLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/AutomationMerc/FacenaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PageObjects/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PageObjects/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PageObjects/MercadoLibre/LoginPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PageObjects/MercadoLibre/MercadoLibreHomePage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PageObjects/MercadoLibre/RegistrationPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PageObjects/MercadoLibre/SearchResultPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/AutomationMerc/BaseTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/AutomationMerc/BaseTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/AutomationMerc/MercadoLibrePeHomePage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/AutomationMerc/MercadoLibrePeLogin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/AutomationMerc/MercadoLibrePeRegistration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PageObjects/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PageObjects/BasePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PageObjects/MercadoLibre/LoginPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PageObjects/MercadoLibre/MercadoLibreHomePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PageObjects/MercadoLibre/RegistrationPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/PageObjects/MercadoLibre/SearchResultPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/testchallenge.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/AutomationMerc/BaseTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/AutomationMerc/BaseTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/AutomationMerc/MercadoLibrePeHomePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/AutomationMerc/MercadoLibrePeLogin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/AutomationMerc/MercadoLibrePeRegistration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/AssertLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/AssertLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/test.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PageObjects/BasePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PageObjects/Facena/BibliotecaPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PageObjects/Facena/DestacadosPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PageObjects/Facena/Formulario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PageObjects/Facena/HeaderPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PageObjects/Facena/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PageObjects/Facena/SiuGuaraniPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/AssertLog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/AutomationMerc/BaseTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/AutomationMerc/FacenaTest.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,14 +38,18 @@
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectId" id="1hcToPg5n0W2JMi237zvjhEu1Gj" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -142,12 +99,12 @@
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.AutomationMerc.*" />
+          <option name="PATTERN" value="com.Facena.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.AutomationMerc" />
-      <option name="MAIN_CLASS_NAME" value="com.AutomationMerc.FacenaTest" />
+      <option name="MAIN_CLASS_NAME" value="com.Facena.FacenaTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -155,16 +112,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FacenaTest.historia1_test3 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FacenaTest.historia1_test3" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.AutomationMerc.*" />
+          <option name="PATTERN" value="com.Facena.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.AutomationMerc" />
-      <option name="MAIN_CLASS_NAME" value="com.AutomationMerc.FacenaTest" />
+      <option name="MAIN_CLASS_NAME" value="com.Facena.FacenaTest" />
       <option name="METHOD_NAME" value="historia1_test3" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -177,12 +134,12 @@
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.AutomationMerc.*" />
+          <option name="PATTERN" value="com.Facena.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.AutomationMerc" />
-      <option name="MAIN_CLASS_NAME" value="com.AutomationMerc.FacenaTest" />
+      <option name="MAIN_CLASS_NAME" value="com.Facena.FacenaTest" />
       <option name="METHOD_NAME" value="historia1_test3" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -191,16 +148,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FacenaTest.historia2_test5 (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FacenaTest.historia2_test5" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.AutomationMerc.*" />
+          <option name="PATTERN" value="com.Facena.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.AutomationMerc" />
-      <option name="MAIN_CLASS_NAME" value="com.AutomationMerc.FacenaTest" />
+      <option name="MAIN_CLASS_NAME" value="com.Facena.FacenaTest" />
       <option name="METHOD_NAME" value="historia2_test5" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -213,9 +170,7 @@
       <list>
         <item itemvalue="TestNG.FacenaTest" />
         <item itemvalue="TestNG.C:/Users/mar_s/.IdeaIC2019.2/system/temp-testng-customsuite.xml" />
-        <item itemvalue="TestNG.FacenaTest.historia1_test3 (1)" />
         <item itemvalue="TestNG.FacenaTest.historia1_test3" />
-        <item itemvalue="TestNG.FacenaTest.historia2_test5 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -249,27 +204,27 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/AutomationMerc/FacenaTest.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/com/Facena/FacenaTest.java</url>
           <line>105</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/AutomationMerc/FacenaTest.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/com/Facena/FacenaTest.java</url>
           <line>134</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/AutomationMerc/FacenaTest.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/com/Facena/FacenaTest.java</url>
           <line>150</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/AutomationMerc/FacenaTest.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/com/Facena/FacenaTest.java</url>
           <line>91</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/AutomationMerc/FacenaTest.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/com/Facena/FacenaTest.java</url>
           <line>90</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
